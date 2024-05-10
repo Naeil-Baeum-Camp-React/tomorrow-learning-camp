@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+
+* {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.header {
+    background-size: cover;
+    background-image: /* linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), */ url('https://images4.alphacoders.com/130/1305610.jpeg');
+    background-position: center;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header > h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.header > div {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.form-floating input,
+.form-floating textarea {
+    color: white;
+    background-color: #252525;
+}
+
+.movie-list-box {
+    width: 1400px;
+    margin: 30px auto;
+}
+
+.movie > div:first-child {
+    background-color: #252525;
+    border: none;
+    color: #fff;
+}
+
+.movie-img-top {
+    object-fit: cover;
+    height: 250px;
+}
+
+.movie-title {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.movie-comment {
+    color: #a8a8a8;
+}
+
+.movie {
+    transition: transform 0.2s ease;
+}
+
+.movie:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);
+}
