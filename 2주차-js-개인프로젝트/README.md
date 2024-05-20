@@ -1,4 +1,4 @@
-![3-ezgif com-video-to-gif-converter](https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/9136888c-9a9f-42fc-b274-a69cb8eeb0fa)# 순수 바닐라 자바스크립트만으로 영화 리스트 조회 및 검색 UI 구현 
+# 순수 바닐라 자바스크립트만으로 영화 리스트 조회 및 검색 UI 구현 
 
 ## `소개`
 - avascript과정을 마무리하며, JS 문법의 핵심을 적용해 볼 수 있는 **영화 검색 사이트**를 제작합니다.
