@@ -16,7 +16,7 @@
 # 3. 기능
 ## `TODO 추가`  
 <p align="center">
-  <img src="./posts%2Fcreate.gif">
+  <img src="posts%2Fcreate.gif">
 </p>
 
 ## `TODO 토글`  
