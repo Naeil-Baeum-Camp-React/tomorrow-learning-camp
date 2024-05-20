@@ -21,12 +21,12 @@
 
 ## `TODO 토글`  
 <p align="center">
-  <img src="/posts%2Fdone.gif">
+  <img src="posts%2Fdone.gif">
 </p>
 
 ## `TODO 삭제`  
 <p align="center">
-  <img src="/posts%2Fdelete.gif">
+  <img src="posts%2Fdelete.gif">
 </p>
 
 
