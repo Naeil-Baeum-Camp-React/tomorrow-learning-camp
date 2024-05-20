@@ -1,4 +1,4 @@
-# 순수 바닐라 자바스크립트만으로 영화 리스트 조회 및 검색 UI 구현 
+![3-ezgif com-video-to-gif-converter](https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/9136888c-9a9f-42fc-b274-a69cb8eeb0fa)# 순수 바닐라 자바스크립트만으로 영화 리스트 조회 및 검색 UI 구현 
 
 ## `소개`
 - avascript과정을 마무리하며, JS 문법의 핵심을 적용해 볼 수 있는 **영화 검색 사이트**를 제작합니다.
@@ -14,21 +14,22 @@
 
 # 구현
 
+
+
 ## `API Fetch 리스트 목록`
 <p align="center">
-  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/b611ef49-6c4e-4652-9865-007d9fda9094">
+  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/6437b5bd-253e-4f64-8c0c-bcf4810046b3">
 </p>
 
 ## `마우스 온 이벤트`
 <p align="center">
-  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/cecb102b-7cf7-4bbb-b5c0-daf193633508">
+  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/af913602-acd0-4c88-b5ca-1ce9fd1b41f9">
 </p>
 
 ## `API Fetch 검색`
 <p align="center">
-  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/b7ab45a5-3a7f-4e97-81d0-39de06deff70">
+  <img src="https://github.com/whitewise95/tomorrow-learning-camp/assets/81284265/1edbe15c-37f0-4f56-9c13-f15b9b03be5a">
 </p>
-
 
 # 배운점
 1. fetch 사용법과 async/await 대해서 알게 되었다.
