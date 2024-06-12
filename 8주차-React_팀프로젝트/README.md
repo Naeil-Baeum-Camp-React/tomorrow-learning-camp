@@ -7,6 +7,7 @@
 <br>
 모든 유저의 블로그를 한번에!
 
+https://youtu.be/I7RdscmxT5E?si=1JsqgyEdYOE6BiQr
 <br>
 
 ### 📌 기능
