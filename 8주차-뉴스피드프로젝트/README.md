@@ -7,6 +7,9 @@
 <br>
 모든 유저의 블로그를 한번에!
 
+### 시연연상 
+[![이미지 텍스트](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtu.be/I7RdscmxT5E?si=1JsqgyEdYOE6BiQr)
+
 <br>
 
 ### 📌 기능
