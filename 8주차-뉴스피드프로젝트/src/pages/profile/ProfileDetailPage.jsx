@@ -59,6 +59,10 @@ function ProfileDetailPage() {
   const imageUpload = (e) => {
     const file = e.target.files[0];
     updateAvartar(userData.userId, file);
+
+
+
+
     setUserImage(URL.createObjectURL(file));
   };
 
